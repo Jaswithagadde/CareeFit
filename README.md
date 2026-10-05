@@ -19,7 +19,7 @@ The resume report has five tabs:
 | **Skill plan** | **One or two portfolio projects** that close several gaps at once (steps and a ready resume bullet), then a study **roadmap** for the missing skills (from the job, or your target role when there's no job): in learning order with missing prerequisites first, hours and a week-by-week estimate at your pace, docs + a free course + a YouTube video for each skill, a "done when you can…" checklist with progress saved in the browser, a project that proves it, and roadmap.sh links. |
 | **Find jobs** | Live jobs and internships (search by role, country, and All / Internships / Entry-level), each with **your fit score**, the skills you have and miss, and a link to apply; plus **what these openings ask for**: the most-requested skills across the results, with the ones you show ticked. |
 
-Live app: <https://resumefitlens.vercel.app> · Backend: FastAPI on Render · Frontend: React + Vite on Vercel
+Live app: <https://caree-fit.vercel.app/> · Backend: FastAPI on Render · Frontend: React + Vite on Vercel
 
 ## How it works
 
