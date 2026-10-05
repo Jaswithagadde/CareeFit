@@ -5,7 +5,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://ai-resume-analyzer-xb45.onrender.com/api/$1"
+      "destination": "https://careerfit-api-a7dv.onrender.com/api/$1"
     },
     {
       "source": "/(.*)",

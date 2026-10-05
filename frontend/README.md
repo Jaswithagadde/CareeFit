@@ -54,7 +54,7 @@ instance can take close to a minute to wake up):
 | Environment | `VITE_API_BASE_URL` | Requests go to |
 | --- | --- | --- |
 | `npm run dev` | unset | `/api/*` → Vite proxy → `http://127.0.0.1:8000` |
-| Vercel (production) | `https://ai-resume-analyzer-xb45.onrender.com` (Vercel env var) | the Render backend directly; it allows this origin via `CORS_ORIGINS` |
+| Vercel (production) | `https://careerfit-api-a7dv.onrender.com` (Vercel env var) | the Render backend directly; it allows this origin via `CORS_ORIGINS` |
 | Vercel without the env var | unset | `/api/*` → `vercel.json` rewrite → the same Render backend |
 
 ## Demo mode
